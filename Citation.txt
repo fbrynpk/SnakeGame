@@ -1,0 +1,3 @@
+To get a better look at how the logic behind the snake games we learn from this website that taught us how to create a simple snake game using c++ 
+
+https://www.programmersought.com/article/16655073486/
